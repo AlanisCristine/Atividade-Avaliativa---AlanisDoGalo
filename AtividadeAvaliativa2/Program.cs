@@ -5,8 +5,11 @@
 //est.CotacaoDolar();
 //est.VendedorPecas();
 
-TrocaValores troca = new TrocaValores();
-troca.Troca();
+//TrocaValores troca = new TrocaValores();
+//troca.Troca();
 
-Modulo mod = new Modulo();
-mod.trocaModulo();
+//Modulo mod = new Modulo();
+//mod.trocaModulo();
+
+Calcular cal = new Calcular();
+cal.iniciarsistema();
