@@ -11,5 +11,8 @@
 //Modulo mod = new Modulo();
 //mod.trocaModulo();
 
-Calcular cal = new Calcular();
-cal.iniciarsistema();
+//Calcular cal = new Calcular();
+//cal.iniciarsistema();
+
+Verificacao ver = new Verificacao();
+ver.Verificar();
